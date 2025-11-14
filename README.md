@@ -10,3 +10,5 @@
   Ein leistungsstarker Discord Bot zur Überwachung von Domain-Verfügbarkeiten mit automatischen Benachrichtigungen
   
 </div>
+
+---
