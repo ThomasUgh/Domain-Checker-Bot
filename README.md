@@ -62,3 +62,7 @@
 - 🔴 Rot (`0xff0000`) - Domain besetzt
 - 🟡 Gelb (`0xffff00`) - Warnung
 - 🔵 Blau (`0x3498db`) - Information
+
+## 📄 Lizenz
+
+Dieses Projekt ist unter der MIT-Lizenz lizenziert - siehe [LICENSE](LICENSE) für Details.
