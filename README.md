@@ -28,3 +28,9 @@
 - **Watchlist Management** - Verwalte überwachte Domains per Befehl
 - **JSON Datenspeicherung** - Persistente Speicherung aller Einstellungen
 - **Rolle-Ping System** - Benachrichtige Teams bei wichtigen Änderungen
+
+## 📋 Voraussetzungen
+
+- Python 3.8 oder höher
+- Discord Bot Token
+- Discord Server mit Admin-Rechten
