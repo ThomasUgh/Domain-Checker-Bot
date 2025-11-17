@@ -34,3 +34,31 @@
 - Python 3.8 oder höher
 - Discord Bot Token
 - Discord Server mit Admin-Rechten
+
+## 📝 Befehle
+
+### Domain-Prüfung
+| Befehl | Beschreibung | Beispiel |
+|--------|--------------|----------|
+| `!domaincheck <domain>` | Prüft eine Domain und Alternativen | `!domaincheck google` |
+| `!dc <domain>` | Kurzform von domaincheck | `!dc example.com` |
+
+### Watchlist-Verwaltung
+| Befehl | Beschreibung | Beispiel |
+|--------|--------------|----------|
+| `!watchlist` | Zeigt alle überwachten Domains | `!watchlist` |
+| `!watchlist add <domain> [priority]` | Fügt Domain zur Überwachung hinzu | `!watchlist add example.de true` |
+| `!watchlist remove <domain>` | Entfernt Domain aus Überwachung | `!watchlist remove test.com` |
+
+### Berichte & Admin
+| Befehl | Beschreibung | Berechtigung |
+|--------|--------------|--------------|
+| `!report` | Erzwingt Wochenbericht | Administrator |
+| `!help` | Zeigt alle Befehle | Alle |
+
+## 🎨 Embed-Farben
+
+- 🟢 Grün (`0x00ff00`) - Domain verfügbar
+- 🔴 Rot (`0xff0000`) - Domain besetzt
+- 🟡 Gelb (`0xffff00`) - Warnung
+- 🔵 Blau (`0x3498db`) - Information
