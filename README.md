@@ -12,3 +12,12 @@
 </div>
 
 ---
+
+## 🚀 Features
+
+### Kern-Funktionen
+- **🔍 Domain-Verfügbarkeitsprüfung** - Prüft Domains mit 18+ verschiedenen TLDs
+- **📊 Live Status Dashboard** - Echtzeit-Überwachung im Discord Channel
+- **🔔 Automatische Alerts** - Sofort-Benachrichtigung bei Priority-Domains
+- **📅 Wochenberichte** - Detaillierte Zusammenfassung jeden Sonntag
+- **⏰ Expiry Tracking** - Überwacht Ablaufdaten von Domains
