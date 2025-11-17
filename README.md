@@ -20,4 +20,11 @@
 - **📊 Live Status Dashboard** - Echtzeit-Überwachung im Discord Channel
 - **🔔 Automatische Alerts** - Sofort-Benachrichtigung bei Priority-Domains
 - **📅 Wochenberichte** - Detaillierte Zusammenfassung jeden Sonntag
-- **⏰ Expiry Tracking** - Überwacht Ablaufdaten von Domains
+
+### Erweiterte Features
+- ** Expiry Tracking** - Überwacht Ablaufdaten von Domains
+- **Priority System** - Markiere wichtige Domains für sofortige Alerts
+- **Multi-TLD Check** - Prüft automatisch alternative Domain-Endungen
+- **Watchlist Management** - Verwalte überwachte Domains per Befehl
+- **JSON Datenspeicherung** - Persistente Speicherung aller Einstellungen
+- **Rolle-Ping System** - Benachrichtige Teams bei wichtigen Änderungen
